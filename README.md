@@ -1,6 +1,6 @@
-# My App
+# D3 Charts
 
-![App Screenshot](./public/Screenshot.png)
+![App Screenshot](./public/screenshot.png)
 
 ## Getting Started
 
